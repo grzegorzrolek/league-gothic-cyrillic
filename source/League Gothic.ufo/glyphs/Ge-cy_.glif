@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyph name="Ge-cy" format="1">
+  <advance width="299"/>
+  <unicode hex="0413"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="148" y="624" type="line"/>
+      <point x="297" y="624" type="line"/>
+      <point x="297" y="735" type="line"/>
+      <point x="40" y="735" type="line"/>
+    </contour>
+  </outline>
+</glyph>

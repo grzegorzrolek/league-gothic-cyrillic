@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyph name="Ef-cy" format="1">
+  <advance width="516"/>
+  <unicode hex="0424"/>
+  <outline>
+    <contour>
+      <point x="204" y="745" type="line"/>
+      <point x="204" y="673" type="line"/>
+      <point x="29" y="673"/>
+      <point x="30" y="514"/>
+      <point x="30" y="514" type="curve"/>
+      <point x="30" y="231" type="line"/>
+      <point x="30" y="231"/>
+      <point x="29" y="72"/>
+      <point x="204" y="72" type="curve"/>
+      <point x="204" y="-8" type="line"/>
+      <point x="312" y="-8" type="line"/>
+      <point x="312" y="72" type="line"/>
+      <point x="487" y="72"/>
+      <point x="486" y="231"/>
+      <point x="486" y="231" type="curve"/>
+      <point x="486" y="514" type="line"/>
+      <point x="486" y="514"/>
+      <point x="487" y="673"/>
+      <point x="312" y="673" type="curve"/>
+      <point x="312" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="177" type="line"/>
+      <point x="136" y="177"/>
+      <point x="138" y="231"/>
+      <point x="138" y="231" type="curve"/>
+      <point x="138" y="514" type="line"/>
+      <point x="138" y="514"/>
+      <point x="136" y="568"/>
+      <point x="204" y="568" type="curve"/>
+    </contour>
+    <contour>
+      <point x="380" y="568"/>
+      <point x="378" y="514"/>
+      <point x="378" y="514" type="curve"/>
+      <point x="378" y="231" type="line"/>
+      <point x="378" y="231"/>
+      <point x="380" y="177"/>
+      <point x="312" y="177" type="curve"/>
+      <point x="312" y="568" type="line"/>
+    </contour>
+  </outline>
+</glyph>

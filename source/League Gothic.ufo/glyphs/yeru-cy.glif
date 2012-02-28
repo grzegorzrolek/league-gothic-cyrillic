@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyph name="yeru-cy" format="1">
+  <advance width="516"/>
+  <unicode hex="044B"/>
+  <outline>
+    <component base="softsign-cy"/>
+    <component base="dotlessi" xOffset="335"/>
+  </outline>
+</glyph>

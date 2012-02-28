@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyph name="endescender-cy" format="1">
+  <advance width="377"/>
+  <unicode hex="04A3"/>
+  <outline>
+    <contour>
+      <point x="270" y="91" type="line"/>
+      <point x="270" y="-138" type="line"/>
+      <point x="371" y="-138" type="line"/>
+      <point x="371" y="91" type="line"/>
+    </contour>
+    <component base="en-cy"/>
+  </outline>
+</glyph>

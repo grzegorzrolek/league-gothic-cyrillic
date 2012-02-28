@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyph name="Iu-cy" format="1">
+  <advance width="553"/>
+  <unicode hex="042E"/>
+  <outline>
+    <contour>
+      <point x="40" y="735" type="line"/>
+      <point x="40" y="730"/>
+      <point x="40" y="0"/>
+      <point x="40" y="0" type="curve"/>
+      <point x="148" y="0" type="line"/>
+      <point x="148" y="320" type="line"/>
+      <point x="282" y="320" type="line"/>
+      <point x="282" y="431" type="line"/>
+      <point x="148" y="431" type="line"/>
+      <point x="148" y="735" type="line"/>
+    </contour>
+    <component base="O" xOffset="199"/>
+  </outline>
+</glyph>

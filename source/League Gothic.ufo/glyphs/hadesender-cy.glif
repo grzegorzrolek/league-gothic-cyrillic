@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyph name="hadesender-cy" format="1">
+  <advance width="333"/>
+  <unicode hex="04B3"/>
+  <outline>
+    <contour>
+      <point x="229" y="91" type="line"/>
+      <point x="229" y="-138" type="line"/>
+      <point x="327" y="-138" type="line"/>
+      <point x="327" y="91" type="line"/>
+    </contour>
+    <component base="ha-cy"/>
+  </outline>
+</glyph>

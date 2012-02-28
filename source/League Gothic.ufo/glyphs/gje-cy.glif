@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyph name="gje-cy" format="1">
+  <advance width="261"/>
+  <unicode hex="0453"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="acute" xOffset="-141.500"/>
+  </outline>
+</glyph>

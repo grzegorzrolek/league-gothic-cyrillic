@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyph name="izhitsa-cy" format="1">
+  <advance width="309"/>
+  <unicode hex="0475"/>
+  <outline>
+    <contour>
+      <point x="155" y="230" type="line"/>
+      <point x="151" y="195" type="line"/>
+      <point x="143" y="195" type="line"/>
+      <point x="139" y="230" type="line"/>
+      <point x="106" y="547" type="line"/>
+      <point x="8" y="547" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="259" y="387" type="line" smooth="yes"/>
+      <point x="265" y="426"/>
+      <point x="268" y="458"/>
+      <point x="303" y="461" type="curve"/>
+      <point x="303" y="550" type="line"/>
+      <point x="200" y="555"/>
+      <point x="186" y="509"/>
+      <point x="174" y="401" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

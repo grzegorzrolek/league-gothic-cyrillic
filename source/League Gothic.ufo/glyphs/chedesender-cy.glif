@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyph name="chedesender-cy" format="1">
+  <advance width="362"/>
+  <unicode hex="04B7"/>
+  <outline>
+    <contour>
+      <point x="255" y="91" type="line"/>
+      <point x="255" y="-138" type="line"/>
+      <point x="356" y="-138" type="line"/>
+      <point x="356" y="91" type="line"/>
+    </contour>
+    <component base="che-cy"/>
+  </outline>
+</glyph>
