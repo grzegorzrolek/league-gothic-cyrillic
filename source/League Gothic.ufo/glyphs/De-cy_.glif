@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <glyph name="De-cy" format="1">
-  <advance width="469"/>
+  <advance width="439"/>
   <unicode hex="0414"/>
   <outline>
     <contour>
-      <point x="133" y="735" type="line"/>
-      <point x="133" y="347"/>
-      <point x="123" y="236"/>
-      <point x="65" y="111" type="curve"/>
+      <point x="115" y="735" type="line"/>
+      <point x="103" y="312"/>
+      <point x="97" y="203"/>
+      <point x="58" y="111" type="curve"/>
       <point x="6" y="111" type="line"/>
       <point x="6" y="-185" type="line"/>
       <point x="114" y="-185" type="line"/>
-      <point x="114" y="0" type="line"/>
-      <point x="355" y="0" type="line"/>
-      <point x="355" y="-185" type="line"/>
-      <point x="463" y="-185" type="line"/>
-      <point x="463" y="111" type="line"/>
-      <point x="403" y="111" type="line"/>
-      <point x="403" y="735" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="325" y="-185" type="line"/>
+      <point x="433" y="-185" type="line"/>
+      <point x="433" y="111" type="line"/>
+      <point x="373" y="111" type="line"/>
+      <point x="373" y="735" type="line"/>
     </contour>
     <contour>
-      <point x="295" y="111" type="line"/>
-      <point x="175" y="111" type="line"/>
-      <point x="218" y="236"/>
-      <point x="230" y="349"/>
-      <point x="230" y="624" type="curve"/>
-      <point x="295" y="624" type="line"/>
+      <point x="265" y="111" type="line"/>
+      <point x="168" y="111" type="line"/>
+      <point x="192" y="203"/>
+      <point x="200" y="314"/>
+      <point x="212" y="624" type="curve"/>
+      <point x="265" y="624" type="line"/>
     </contour>
   </outline>
 </glyph>
