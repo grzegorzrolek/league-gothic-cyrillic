@@ -2,10 +2,109 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>@MMK_L_Dje-cy</key>
+	<dict>
+		<key>@MMK_R_Te-cy</key>
+		<integer>-27</integer>
+		<key>Yat-cy</key>
+		<integer>-36</integer>
+	</dict>
 	<key>@MMK_L_E</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>2</integer>
+	</dict>
+	<key>@MMK_L_Ge-cy</key>
+	<dict>
+		<key>@MMK_R_El-cy</key>
+		<integer>-36</integer>
+		<key>@MMK_R_O-cy</key>
+		<integer>-9</integer>
+		<key>@MMK_R_comma</key>
+		<integer>-36</integer>
+		<key>@MMK_R_el-cy</key>
+		<integer>-51</integer>
+		<key>@MMK_R_ie-cy</key>
+		<integer>-45</integer>
+		<key>@MMK_R_u-cy</key>
+		<integer>-30</integer>
+		<key>@MMK_R_ve-cy</key>
+		<integer>-33</integer>
+		<key>A-cy</key>
+		<integer>-33</integer>
+		<key>De-cy</key>
+		<integer>-42</integer>
+		<key>a-cy</key>
+		<integer>-39</integer>
+		<key>io-cy</key>
+		<integer>-12</integer>
+		<key>umacron-cy</key>
+		<integer>0</integer>
+		<key>ushort-cy</key>
+		<integer>0</integer>
+	</dict>
+	<key>@MMK_L_O-cy</key>
+	<dict>
+		<key>De-cy</key>
+		<integer>-3</integer>
+	</dict>
+	<key>@MMK_L_Shha-cy</key>
+	<dict>
+		<key>@MMK_R_Te-cy</key>
+		<integer>-27</integer>
+		<key>Yat-cy</key>
+		<integer>-36</integer>
+	</dict>
+	<key>@MMK_L_Softsign-cy</key>
+	<dict>
+		<key>@MMK_R_Che-cy</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Te-cy</key>
+		<integer>-30</integer>
+		<key>@MMK_R_u-cy</key>
+		<integer>-9</integer>
+		<key>Yat-cy</key>
+		<integer>-30</integer>
+	</dict>
+	<key>@MMK_L_Tse-cy</key>
+	<dict>
+		<key>@MMK_R_comma</key>
+		<integer>21</integer>
+	</dict>
+	<key>@MMK_L_U-cy</key>
+	<dict>
+		<key>@MMK_R_El-cy</key>
+		<integer>-42</integer>
+		<key>@MMK_R_O-cy</key>
+		<integer>-3</integer>
+		<key>@MMK_R_che-cy</key>
+		<integer>-21</integer>
+		<key>@MMK_R_comma</key>
+		<integer>-18</integer>
+		<key>@MMK_R_el-cy</key>
+		<integer>-45</integer>
+		<key>@MMK_R_ie-cy</key>
+		<integer>-27</integer>
+		<key>@MMK_R_ve-cy</key>
+		<integer>-18</integer>
+		<key>A-cy</key>
+		<integer>-24</integer>
+		<key>De-cy</key>
+		<integer>-42</integer>
+		<key>Ef-cy</key>
+		<integer>-6</integer>
+		<key>Ia-cy</key>
+		<integer>-6</integer>
+		<key>Ze-cy</key>
+		<integer>-3</integer>
+		<key>be-cy</key>
+		<integer>-12</integer>
+		<key>de-cy</key>
+		<integer>-51</integer>
+		<key>ef-cy</key>
+		<integer>-18</integer>
+		<key>ze-cy</key>
+		<integer>-21</integer>
 	</dict>
 	<key>@MMK_L_V</key>
 	<dict>
@@ -18,6 +117,11 @@
 		<key>@MMK_R_n</key>
 		<integer>-12</integer>
 	</dict>
+	<key>@MMK_L_Ve-cy</key>
+	<dict>
+		<key>Ustrait-cy</key>
+		<integer>-9</integer>
+	</dict>
 	<key>@MMK_L_Y</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -28,6 +132,15 @@
 		<integer>-40</integer>
 		<key>@MMK_R_d</key>
 		<integer>-25</integer>
+	</dict>
+	<key>@MMK_L_Zhe-cy</key>
+	<dict>
+		<key>@MMK_R_ie-cy</key>
+		<integer>-3</integer>
+		<key>@MMK_R_u-cy</key>
+		<integer>-6</integer>
+		<key>Ef-cy</key>
+		<integer>-9</integer>
 	</dict>
 	<key>@MMK_L_a</key>
 	<dict>
@@ -62,10 +175,38 @@
 		<key>@MMK_R_v</key>
 		<integer>-5</integer>
 	</dict>
+	<key>@MMK_L_ge-cy</key>
+	<dict>
+		<key>@MMK_R_comma</key>
+		<integer>-36</integer>
+		<key>@MMK_R_el-cy</key>
+		<integer>-24</integer>
+		<key>@MMK_R_ie-cy</key>
+		<integer>-9</integer>
+		<key>a-cy</key>
+		<integer>-12</integer>
+		<key>de-cy</key>
+		<integer>-30</integer>
+	</dict>
 	<key>@MMK_L_icircumflex</key>
 	<dict>
 		<key>@MMK_R_c</key>
 		<integer>-2</integer>
+	</dict>
+	<key>@MMK_L_ie-cy</key>
+	<dict>
+		<key>@MMK_R_el-cy</key>
+		<integer>-6</integer>
+		<key>@MMK_R_te-cy</key>
+		<integer>-3</integer>
+		<key>@MMK_R_zhe-cy</key>
+		<integer>-3</integer>
+		<key>de-cy</key>
+		<integer>-6</integer>
+		<key>ia-cy</key>
+		<integer>-3</integer>
+		<key>ustrait-cy</key>
+		<integer>-3</integer>
 	</dict>
 	<key>@MMK_L_l</key>
 	<dict>
@@ -73,6 +214,32 @@
 		<integer>-2</integer>
 		<key>@MMK_R_s</key>
 		<integer>-5</integer>
+	</dict>
+	<key>@MMK_L_shha-cy</key>
+	<dict>
+		<key>@MMK_R_te-cy</key>
+		<integer>-24</integer>
+	</dict>
+	<key>@MMK_L_softsign-cy</key>
+	<dict>
+		<key>@MMK_R_te-cy</key>
+		<integer>-30</integer>
+		<key>@MMK_R_u-cy</key>
+		<integer>-18</integer>
+		<key>ustrait-cy</key>
+		<integer>-18</integer>
+	</dict>
+	<key>@MMK_L_tse-cy</key>
+	<dict>
+		<key>@MMK_R_comma</key>
+		<integer>18</integer>
+	</dict>
+	<key>@MMK_L_tshe-cy</key>
+	<dict>
+		<key>@MMK_R_dje-cy</key>
+		<integer>-9</integer>
+		<key>@MMK_R_te-cy</key>
+		<integer>-24</integer>
 	</dict>
 	<key>@MMK_L_u</key>
 	<dict>
@@ -83,6 +250,23 @@
 		<key>@MMK_R_v</key>
 		<integer>-5</integer>
 	</dict>
+	<key>@MMK_L_u-cy</key>
+	<dict>
+		<key>@MMK_R_comma</key>
+		<integer>-27</integer>
+		<key>@MMK_R_el-cy</key>
+		<integer>-21</integer>
+		<key>@MMK_R_ie-cy</key>
+		<integer>-3</integer>
+		<key>a-cy</key>
+		<integer>-6</integer>
+		<key>de-cy</key>
+		<integer>-21</integer>
+		<key>ia-cy</key>
+		<integer>-9</integer>
+		<key>ze-cy</key>
+		<integer>-3</integer>
+	</dict>
 	<key>@MMK_L_v</key>
 	<dict>
 		<key>@MMK_R_a</key>
@@ -92,10 +276,30 @@
 		<key>@MMK_R_quotesingle</key>
 		<integer>12</integer>
 	</dict>
+	<key>@MMK_L_zhe-cy</key>
+	<dict>
+		<key>@MMK_R_ie-cy</key>
+		<integer>-3</integer>
+	</dict>
 	<key>A</key>
 	<dict>
 		<key>T</key>
 		<integer>-22</integer>
+	</dict>
+	<key>A-cy</key>
+	<dict>
+		<key>@MMK_R_Che-cy</key>
+		<integer>-27</integer>
+		<key>@MMK_R_Te-cy</key>
+		<integer>-21</integer>
+		<key>@MMK_R_te-cy</key>
+		<integer>-6</integer>
+		<key>@MMK_R_u-cy</key>
+		<integer>-6</integer>
+		<key>Ef-cy</key>
+		<integer>-3</integer>
+		<key>Ustrait-cy</key>
+		<integer>-24</integer>
 	</dict>
 	<key>Aacute</key>
 	<dict>
@@ -135,6 +339,52 @@
 		<integer>-10</integer>
 		<key>Ydieresis</key>
 		<integer>-10</integer>
+	</dict>
+	<key>Be-cy</key>
+	<dict>
+		<key>@MMK_R_Che-cy</key>
+		<integer>-9</integer>
+	</dict>
+	<key>De-cy</key>
+	<dict>
+		<key>@MMK_R_Che-cy</key>
+		<integer>-24</integer>
+		<key>@MMK_R_El-cy</key>
+		<integer>9</integer>
+		<key>@MMK_R_comma</key>
+		<integer>21</integer>
+		<key>@MMK_R_el-cy</key>
+		<integer>9</integer>
+		<key>@MMK_R_u-cy</key>
+		<integer>9</integer>
+		<key>De-cy</key>
+		<integer>9</integer>
+	</dict>
+	<key>Ef-cy</key>
+	<dict>
+		<key>@MMK_R_El-cy</key>
+		<integer>-12</integer>
+		<key>@MMK_R_Te-cy</key>
+		<integer>-12</integer>
+		<key>@MMK_R_Zhe-cy</key>
+		<integer>-9</integer>
+		<key>@MMK_R_comma</key>
+		<integer>-24</integer>
+		<key>A-cy</key>
+		<integer>-3</integer>
+	</dict>
+	<key>Er-cy</key>
+	<dict>
+		<key>@MMK_R_El-cy</key>
+		<integer>-39</integer>
+		<key>@MMK_R_comma</key>
+		<integer>-36</integer>
+		<key>@MMK_R_ie-cy</key>
+		<integer>-12</integer>
+		<key>A-cy</key>
+		<integer>-30</integer>
+		<key>De-cy</key>
+		<integer>-45</integer>
 	</dict>
 	<key>F</key>
 	<dict>
@@ -180,6 +430,11 @@
 		<integer>-10</integer>
 		<key>otilde</key>
 		<integer>-10</integer>
+	</dict>
+	<key>Ha-cy</key>
+	<dict>
+		<key>@MMK_R_ie-cy</key>
+		<integer>-6</integer>
 	</dict>
 	<key>I</key>
 	<dict>
@@ -363,12 +618,65 @@
 		<key>ydieresis</key>
 		<integer>-5</integer>
 	</dict>
+	<key>Te-cy</key>
+	<dict>
+		<key>@MMK_R_El-cy</key>
+		<integer>-24</integer>
+		<key>@MMK_R_Te-cy</key>
+		<integer>9</integer>
+		<key>@MMK_R_comma</key>
+		<integer>-30</integer>
+		<key>@MMK_R_ie-cy</key>
+		<integer>-30</integer>
+		<key>@MMK_R_u-cy</key>
+		<integer>-6</integer>
+		<key>@MMK_R_ve-cy</key>
+		<integer>-27</integer>
+		<key>A-cy</key>
+		<integer>-21</integer>
+		<key>De-cy</key>
+		<integer>-30</integer>
+		<key>Ef-cy</key>
+		<integer>-12</integer>
+		<key>Ia-cy</key>
+		<integer>-6</integer>
+		<key>a-cy</key>
+		<integer>-33</integer>
+		<key>ia-cy</key>
+		<integer>-30</integer>
+		<key>io-cy</key>
+		<integer>-12</integer>
+	</dict>
+	<key>Ustrait-cy</key>
+	<dict>
+		<key>@MMK_R_El-cy</key>
+		<integer>-36</integer>
+		<key>@MMK_R_comma</key>
+		<integer>-12</integer>
+		<key>A-cy</key>
+		<integer>-24</integer>
+		<key>De-cy</key>
+		<integer>-36</integer>
+	</dict>
 	<key>a</key>
 	<dict>
 		<key>f</key>
 		<integer>-5</integer>
 		<key>t</key>
 		<integer>-7</integer>
+	</dict>
+	<key>a-cy</key>
+	<dict>
+		<key>@MMK_R_che-cy</key>
+		<integer>-6</integer>
+		<key>@MMK_R_el-cy</key>
+		<integer>-3</integer>
+		<key>@MMK_R_te-cy</key>
+		<integer>-6</integer>
+		<key>che-cy</key>
+		<integer>-6</integer>
+		<key>ze-cy</key>
+		<integer>-3</integer>
 	</dict>
 	<key>aacute</key>
 	<dict>
@@ -422,6 +730,21 @@
 		<key>t</key>
 		<integer>-4</integer>
 	</dict>
+	<key>be-cy</key>
+	<dict>
+		<key>@MMK_R_el-cy</key>
+		<integer>-6</integer>
+		<key>@MMK_R_te-cy</key>
+		<integer>-3</integer>
+		<key>@MMK_R_zhe-cy</key>
+		<integer>-3</integer>
+		<key>de-cy</key>
+		<integer>-3</integer>
+		<key>ia-cy</key>
+		<integer>-3</integer>
+		<key>ustrait-cy</key>
+		<integer>-3</integer>
+	</dict>
 	<key>c</key>
 	<dict>
 		<key>f</key>
@@ -435,6 +758,21 @@
 		<integer>-5</integer>
 		<key>t</key>
 		<integer>-5</integer>
+	</dict>
+	<key>de-cy</key>
+	<dict>
+		<key>@MMK_R_che-cy</key>
+		<integer>-12</integer>
+		<key>@MMK_R_comma</key>
+		<integer>21</integer>
+		<key>@MMK_R_el-cy</key>
+		<integer>9</integer>
+		<key>@MMK_R_u-cy</key>
+		<integer>9</integer>
+		<key>de-cy</key>
+		<integer>9</integer>
+		<key>er-cy</key>
+		<integer>6</integer>
 	</dict>
 	<key>e</key>
 	<dict>
@@ -542,6 +880,11 @@
 		<integer>-4</integer>
 		<key>scaron</key>
 		<integer>-4</integer>
+	</dict>
+	<key>ge-cy</key>
+	<dict>
+		<key>o-cy</key>
+		<integer>-9</integer>
 	</dict>
 	<key>h</key>
 	<dict>
@@ -760,6 +1103,13 @@
 		<key>z</key>
 		<integer>6</integer>
 	</dict>
+	<key>te-cy</key>
+	<dict>
+		<key>@MMK_R_comma</key>
+		<integer>-21</integer>
+		<key>@MMK_R_te-cy</key>
+		<integer>9</integer>
+	</dict>
 	<key>thorn</key>
 	<dict>
 		<key>t</key>
@@ -794,6 +1144,21 @@
 	<dict>
 		<key>t</key>
 		<integer>-5</integer>
+	</dict>
+	<key>ustrait-cy</key>
+	<dict>
+		<key>@MMK_R_comma</key>
+		<integer>-24</integer>
+		<key>@MMK_R_el-cy</key>
+		<integer>-18</integer>
+		<key>@MMK_R_ie-cy</key>
+		<integer>-3</integer>
+		<key>de-cy</key>
+		<integer>-18</integer>
+		<key>ia-cy</key>
+		<integer>-9</integer>
+		<key>ze-cy</key>
+		<integer>-3</integer>
 	</dict>
 </dict>
 </plist>
